@@ -20,3 +20,13 @@ PHP_VERSION="php 5.6"
 ##############
 APACHE="yes"
 #APACHE="no"
+
+##############
+#   The PHP Quality Assurance Tools   #
+##############
+#QA="yes"
+#QA="no"
+# Select the PHP QA tools from below list by uncommenting it.
+#PHPMD="yes" #PHP Mess Detector
+#PHPCS="yes" #PHP_CodeSniffer
+#PHPCP="yes" #PHP Copy/Paste Detector
